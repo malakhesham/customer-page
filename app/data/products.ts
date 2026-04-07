@@ -19,7 +19,7 @@ export const products: any[] = [
 		],
 		viewers: 120,
 		approved: true,
-		sku: "APL-IP15P-256",
+		sku:  "APL-IP15P-256",
 	},
 ];
 // export type Product = typeof products[number];
